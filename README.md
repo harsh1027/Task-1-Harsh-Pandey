@@ -1,2 +1,2 @@
-# Task-1-Harsh-Pande
+# Task-1-Harsh-Pandey
 task 1
